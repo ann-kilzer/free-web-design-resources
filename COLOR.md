@@ -53,6 +53,11 @@ intensity of a color [2]
 
 ### Color Systems
 
+#### RGB
+
+#### CMYK
+
+#### HSB
 
 ### Color Schemes
 
