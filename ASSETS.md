@@ -3,6 +3,9 @@
 ## Backgrounds
 
 - https://app.websitebackgroundmaker.com/
+- https://www.toptal.com/designers/subtlepatterns/
+- https://patternico.com/
+
 
 ## Graphics & Illustrations
 - https://www.humaaans.com/
