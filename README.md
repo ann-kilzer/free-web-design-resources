@@ -11,5 +11,5 @@ There a million lists like this out there, this one is mine. It's a little Japan
 - [Design and layout software](https://github.com/ann-kilzer/free-web-design-resources/blob/main/DESIGN_SOFTWARE.md) 🖌️
 - [Frameworks & Design Systems](https://github.com/ann-kilzer/free-web-design-resources/blob/main/FRAMEWORKS.md) 🏗️
 - [Research & Inspiration](https://github.com/ann-kilzer/free-web-design-resources/blob/main/RESEARCH_INSPIRATION.md) ✨
-- [Articles & How-tos](https://github.com/ann-kilzer/free-web-design-resources/blob/main/ARTICLES.md)
-- [Accessibility (a11y)](https://github.com/ann-kilzer/free-web-design-resources/blob/main/A11Y.md)
+- [Articles & How-tos](https://github.com/ann-kilzer/free-web-design-resources/blob/main/ARTICLES.md) 📄
+- [Accessibility (a11y)](https://github.com/ann-kilzer/free-web-design-resources/blob/main/A11Y.md) ♿
