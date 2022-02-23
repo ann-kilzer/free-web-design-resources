@@ -36,7 +36,7 @@
 
 ### Definitions [1]
 
-** Hue** 
+**Hue** 
 A pure color (no black or white added)
 
 **Tint**
@@ -53,25 +53,45 @@ intensity of a color [2]
 
 ### Color Systems
 
-#### RGB
+#### RGB 🔴🟢🔵 Red-Green-Blue
 
-#### CMYK
+This system is "additive", meaning light is added. When all three colors are combined, we get white ⚪️.
 
-#### HSB
+#### CMYK - Cyan Magenta Yellow blacK (or Key)
+
+This system is popularitized in printmaking and uses the "subtractive" system, where light is removed.
+
+#### HSB (Hue Saturation Brightness)
 
 ### Color Schemes
 
+Here are some color schemes inspired by the color wheel.
+
 #### Monochromatic
 
+A range of colors within a single color family. E.g. various blues.
+🔵📘🚙💙🐋🫐
+
 #### Triadic
+
 
 #### Tetradic
 
 #### Analogous
 
+Adjacent colors in the color wheel. 
+
+Example: Greens and blues
+💚🍏🐉🔵🚙💙🐋🫐
+
 #### Complementary
+
+Opposite colors from the color wheel
+
+Example: Purple and yellow
+💜🟪💛⭐️✨
 
 
 ## References
-- [1] https://www.colorsexplained.com/shade-tint-tone/
-- [2] https://www.techopedia.com/definition/1968/color-saturation
+1. https://www.colorsexplained.com/shade-tint-tone/
+2. https://www.techopedia.com/definition/1968/color-saturation
