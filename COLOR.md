@@ -10,10 +10,11 @@
 - https://coolors.co/
 - https://paletton.com/
 - https://material.io/design/color/the-color-system.html#tools-for-picking-colors
+- https://colorhunt.co/
 
 
 ### Articles
-- https://refactoringui.com/previews/building-your-color-palette/
+- https://refactoringui.com/previews/building-your-color-palette/ ⭐️ HIGHLY RECOMMENDED ⭐️
 
 ### Traditional Colors of Japan 🏯
 - https://en.wikipedia.org/wiki/Traditional_colors_of_Japan
