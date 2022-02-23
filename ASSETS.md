@@ -15,6 +15,7 @@
 - https://drawkit.com/
 - https://doodleipsum.com/
 - https://www.blackillustrations.com/black-illustration-packs
+- https://www.irasutoya.com/ Very Japan-centric, check [terms](https://www.irasutoya.com/p/terms.html) for restrictions
 
 
 ## Stock Photography
