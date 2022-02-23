@@ -9,3 +9,11 @@
 - [GNU Image Manipulation Program (GIMP)](https://www.gimp.org/)
 - [Inkscape](https://inkscape.org/) (Vector Graphics)
 
+
+## Favicon Creators
+- https://favicon.io/
+- http://www.faviconer.com/
+- https://www.favicongenerator.com/
+
+## Background Creators
+- https://app.websitebackgroundmaker.com/
