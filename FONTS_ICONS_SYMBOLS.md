@@ -10,6 +10,7 @@
 ## Icons
 - [Font Awesome](https://fontawesome.com/)
 - [Material Icons](https://fonts.google.com/icons?selected=Material+Icons)
+- https://www.flaticon.com/
 - [Noun Project](https://thenounproject.com/)
 
 
