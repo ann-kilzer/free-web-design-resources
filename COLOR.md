@@ -5,6 +5,10 @@
 - https://en.wikipedia.org/wiki/Web_colors
 
 ## Resources 🛠️
+
+### Articles
+- https://refactoringui.com/previews/building-your-color-palette/ ⭐️ HIGHLY RECOMMENDED ⭐️
+
 ### Palette Generators 🎨
 
 - https://coolors.co/
@@ -13,16 +17,17 @@
 - https://colorhunt.co/
 
 
-### Articles
-- https://refactoringui.com/previews/building-your-color-palette/ ⭐️ HIGHLY RECOMMENDED ⭐️
-
 ### Traditional Colors of Japan 🏯
 - https://en.wikipedia.org/wiki/Traditional_colors_of_Japan
 - https://www.colordic.org/w
 - http://kidorakujapan.com/know/others_color.html
 - https://irononamae.web.fc2.com/wa/
 
-## Pickers
+### Famous Colors
+- http://brandcolors.net/
+- https://visme.co/blog/website-color-schemes/
+
+### Pickers
 - [ColorZilla Color Picker](https://www.colorzilla.com/)
 
 
