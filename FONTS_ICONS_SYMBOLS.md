@@ -19,3 +19,4 @@
 ## Emoji 
 - https://openmoji.org/
 - https://twemoji.twitter.com/
+- https://emojitwo.github.io/ (formerly emoji one)
