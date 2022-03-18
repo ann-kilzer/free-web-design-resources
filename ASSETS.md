@@ -23,6 +23,10 @@
 - https://unsplash.com/
 
 
+## Placeholders
+- https://placeholder.com/
+- https://placekitten.com/
+
 ## Open Access Images
 - https://commons.wikimedia.org/wiki/Main_Page
 - https://www.nga.gov/open-access-images.html
